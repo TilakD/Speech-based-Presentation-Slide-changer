@@ -1,0 +1,14 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    Presentation slide changer using speech recognition
+		       28 Feb 2015
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+1) Run speech-ppt.exe
+2) Browse and select the PPT of PDF
+3) Click start presentation
+4) Voice commands: 
+    a) Go to full screen: Goes to full screen mode
+    b) Next slide: Goes to next slide
+    c) Previous slide: Goes to previous slide
+    d) Hey presentation you can exit now: To exit out of the presentation
+-TILAK

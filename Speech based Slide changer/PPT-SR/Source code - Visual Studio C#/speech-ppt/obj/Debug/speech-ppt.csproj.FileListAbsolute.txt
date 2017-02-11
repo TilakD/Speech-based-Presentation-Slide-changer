@@ -1,0 +1,40 @@
+C:\Users\Tilak\Desktop\PPT-SR\speech-ppt\speech-ppt\bin\Debug\speech-ppt.exe.config
+C:\Users\Tilak\Desktop\PPT-SR\speech-ppt\speech-ppt\bin\Debug\speech-ppt.exe
+C:\Users\Tilak\Desktop\PPT-SR\speech-ppt\speech-ppt\bin\Debug\speech-ppt.pdb
+C:\Users\Tilak\Desktop\PPT-SR\speech-ppt\speech-ppt\obj\Debug\speech-ppt.csprojResolveAssemblyReference.cache
+C:\Users\Tilak\Desktop\PPT-SR\speech-ppt\speech-ppt\obj\Debug\speech-ppt.csproj.ResolveComReference.cache
+C:\Users\Tilak\Desktop\PPT-SR\speech-ppt\speech-ppt\obj\Debug\speech_ppt.Form1.resources
+C:\Users\Tilak\Desktop\PPT-SR\speech-ppt\speech-ppt\obj\Debug\speech_ppt.Properties.Resources.resources
+C:\Users\Tilak\Desktop\PPT-SR\speech-ppt\speech-ppt\obj\Debug\speech-ppt.csproj.GenerateResource.Cache
+C:\Users\Tilak\Desktop\PPT-SR\speech-ppt\speech-ppt\obj\Debug\speech-ppt.exe
+C:\Users\Tilak\Desktop\PPT-SR\speech-ppt\speech-ppt\obj\Debug\speech-ppt.pdb
+C:\Users\Tilak\Desktop\PPT-SR\Powerpoint\speech-ppt\speech-ppt\bin\Debug\speech-ppt.exe.config
+C:\Users\Tilak\Desktop\PPT-SR\Powerpoint\speech-ppt\speech-ppt\obj\Debug\speech-ppt.csproj.ResolveComReference.cache
+C:\Users\Tilak\Desktop\PPT-SR\Powerpoint\speech-ppt\speech-ppt\obj\Debug\speech-ppt.exe
+C:\Users\Tilak\Desktop\PPT-SR\Powerpoint\speech-ppt\speech-ppt\obj\Debug\speech-ppt.pdb
+C:\Users\Tilak\Desktop\PPT-SR\Powerpoint\speech-ppt\speech-ppt\bin\Debug\speech-ppt.exe
+C:\Users\Tilak\Desktop\PPT-SR\Powerpoint\speech-ppt\speech-ppt\bin\Debug\speech-ppt.pdb
+C:\Users\Tilak\Desktop\PPT-SR\Powerpoint\speech-ppt\speech-ppt\obj\Debug\speech_ppt.Form1.resources
+C:\Users\Tilak\Desktop\PPT-SR\Powerpoint\speech-ppt\speech-ppt\obj\Debug\speech_ppt.Properties.Resources.resources
+C:\Users\Tilak\Desktop\PPT-SR\Powerpoint\speech-ppt\speech-ppt\obj\Debug\speech-ppt.csproj.GenerateResource.Cache
+C:\Users\Tilak\Desktop\PPT-SR\Powerpoint\speech-ppt\speech-ppt\obj\Debug\speech-ppt.csprojResolveAssemblyReference.cache
+C:\Users\Tilak\Documents\Mani sir\PPT-SR\Powerpoint\speech-ppt\speech-ppt\bin\Debug\speech-ppt.exe.config
+C:\Users\Tilak\Documents\Mani sir\PPT-SR\Powerpoint\speech-ppt\speech-ppt\obj\Debug\speech-ppt.csproj.ResolveComReference.cache
+C:\Users\Tilak\Documents\Mani sir\PPT-SR\Powerpoint\speech-ppt\speech-ppt\obj\Debug\speech-ppt.exe
+C:\Users\Tilak\Documents\Mani sir\PPT-SR\Powerpoint\speech-ppt\speech-ppt\obj\Debug\speech-ppt.pdb
+C:\Users\Tilak\Documents\Mani sir\PPT-SR\Powerpoint\speech-ppt\speech-ppt\bin\Debug\speech-ppt.exe
+C:\Users\Tilak\Documents\Mani sir\PPT-SR\Powerpoint\speech-ppt\speech-ppt\bin\Debug\speech-ppt.pdb
+C:\Users\Tilak\Documents\Mani sir\PPT-SR\Powerpoint\speech-ppt\speech-ppt\obj\Debug\speech-ppt.csprojResolveAssemblyReference.cache
+C:\Users\Tilak\Documents\Mani sir\PPT-SR\Powerpoint\speech-ppt\speech-ppt\obj\Debug\speech_ppt.Form1.resources
+C:\Users\Tilak\Documents\Mani sir\PPT-SR\Powerpoint\speech-ppt\speech-ppt\obj\Debug\speech_ppt.Properties.Resources.resources
+C:\Users\Tilak\Documents\Mani sir\PPT-SR\Powerpoint\speech-ppt\speech-ppt\obj\Debug\speech-ppt.csproj.GenerateResource.Cache
+C:\Users\Tilak\Desktop\PPT-SR\Source code - Visual Studio C#\speech-ppt\bin\Debug\speech-ppt.exe.config
+C:\Users\Tilak\Desktop\PPT-SR\Source code - Visual Studio C#\speech-ppt\obj\Debug\speech-ppt.csproj.ResolveComReference.cache
+C:\Users\Tilak\Desktop\PPT-SR\Source code - Visual Studio C#\speech-ppt\obj\Debug\speech-ppt.exe
+C:\Users\Tilak\Desktop\PPT-SR\Source code - Visual Studio C#\speech-ppt\obj\Debug\speech-ppt.pdb
+C:\Users\Tilak\Desktop\PPT-SR\Source code - Visual Studio C#\speech-ppt\bin\Debug\speech-ppt.exe
+C:\Users\Tilak\Desktop\PPT-SR\Source code - Visual Studio C#\speech-ppt\bin\Debug\speech-ppt.pdb
+C:\Users\Tilak\Desktop\PPT-SR\Source code - Visual Studio C#\speech-ppt\obj\Debug\speech-ppt.csprojResolveAssemblyReference.cache
+C:\Users\Tilak\Desktop\PPT-SR\Source code - Visual Studio C#\speech-ppt\obj\Debug\speech_ppt.Form1.resources
+C:\Users\Tilak\Desktop\PPT-SR\Source code - Visual Studio C#\speech-ppt\obj\Debug\speech_ppt.Properties.Resources.resources
+C:\Users\Tilak\Desktop\PPT-SR\Source code - Visual Studio C#\speech-ppt\obj\Debug\speech-ppt.csproj.GenerateResource.Cache
